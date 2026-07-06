@@ -1,0 +1,13 @@
+**/__pycache__
+*.pth
+assets/ckpt/*
+
+# Claude Code session files
+.claude/
+
+# training outputs
+results/
+vis_results/
+
+# large generated competition submission files
+submission*.csv
